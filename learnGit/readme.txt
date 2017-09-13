@@ -4,5 +4,6 @@ hello world!
 git 12
 git 2
 git 3
-git 4
+git w
 create a new branch dev.
+create a new branch feature1.
