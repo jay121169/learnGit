@@ -6,3 +6,4 @@ git 2
 git 3
 git 4
 create a new branch dev.
+create a new branch is quick & simple.
