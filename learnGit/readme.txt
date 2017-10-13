@@ -10,3 +10,4 @@ create a new branch is quick & and simple.
 create dev again
 create dev again again
 delete haha
+test vs code git
